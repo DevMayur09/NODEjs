@@ -1,0 +1,1 @@
+Here is the result :&{first} and Hello this is the second file.
